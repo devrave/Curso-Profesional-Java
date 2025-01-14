@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arreglos/Arreglos.iml" filepath="$PROJECT_DIR$/Arreglos/Arreglos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Break-Continue/Break-Continue.iml" filepath="$PROJECT_DIR$/Break-Continue/Break-Continue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Break-Continue2/Break-Continue2.iml" filepath="$PROJECT_DIR$/Break-Continue2/Break-Continue2.iml" />
       <module fileurl="file://$PROJECT_DIR$/CiclosUnicaSentencia/CiclosUnicaSentencia.iml" filepath="$PROJECT_DIR$/CiclosUnicaSentencia/CiclosUnicaSentencia.iml" />
@@ -15,6 +16,8 @@
       <module fileurl="file://$PROJECT_DIR$/HolaMundo/HolaMundo.iml" filepath="$PROJECT_DIR$/HolaMundo/HolaMundo.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperadorTernario/OperadorTernario.iml" filepath="$PROJECT_DIR$/OperadorTernario/OperadorTernario.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperadoresRelacionales/OperadoresRelacionales.iml" filepath="$PROJECT_DIR$/OperadoresRelacionales/OperadoresRelacionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecorrerArreglos/RecorrerArreglos.iml" filepath="$PROJECT_DIR$/RecorrerArreglos/RecorrerArreglos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringComoCadena/StringComoCadena.iml" filepath="$PROJECT_DIR$/StringComoCadena/StringComoCadena.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
