@@ -40,16 +40,5 @@ public class Main {
 
         System.out.println(apellidos[0]);
         System.out.println(apellidos[1]);
-
-
-
-
-
-
-
-
-
-
-
     }
 }
