@@ -24,7 +24,7 @@ public class Main {
         // Null: No es un tipo de dato ni un objeto, este representa la ausencia de un valor.
 
         //otra manera de definir un arreglo
-        String empresas[] = new String[2];
+        String[] empresas = new String[2];
         empresas[0] = "procopal";
         empresas[1] ="pavimentar";
         System.out.println(empresas[0]);

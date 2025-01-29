@@ -3,11 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arreglos/Arreglos.iml" filepath="$PROJECT_DIR$/Arreglos/Arreglos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArreglosComoParametros/ArreglosComoParametros.iml" filepath="$PROJECT_DIR$/ArreglosComoParametros/ArreglosComoParametros.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArreglosMultidimensionales/ArreglosMultidimensionales.iml" filepath="$PROJECT_DIR$/ArreglosMultidimensionales/ArreglosMultidimensionales.iml" />
       <module fileurl="file://$PROJECT_DIR$/Break-Continue/Break-Continue.iml" filepath="$PROJECT_DIR$/Break-Continue/Break-Continue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Break-Continue2/Break-Continue2.iml" filepath="$PROJECT_DIR$/Break-Continue2/Break-Continue2.iml" />
       <module fileurl="file://$PROJECT_DIR$/CiclosUnicaSentencia/CiclosUnicaSentencia.iml" filepath="$PROJECT_DIR$/CiclosUnicaSentencia/CiclosUnicaSentencia.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clases-objetos/Clases-objetos.iml" filepath="$PROJECT_DIR$/Clases-objetos/Clases-objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClasesAnidadas/ClasesAnidadas.iml" filepath="$PROJECT_DIR$/ClasesAnidadas/ClasesAnidadas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Concatenar/Concatenar.iml" filepath="$PROJECT_DIR$/Concatenar/Concatenar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condicionales/Condicionales.iml" filepath="$PROJECT_DIR$/Condicionales/Condicionales.iml" />
       <module fileurl="file://$PROJECT_DIR$/CondicionesAnidadas/CondicionesAnidadas.iml" filepath="$PROJECT_DIR$/CondicionesAnidadas/CondicionesAnidadas.iml" />
@@ -23,11 +25,14 @@
       <module fileurl="file://$PROJECT_DIR$/InsertarRegistros/InsertarRegistros.iml" filepath="$PROJECT_DIR$/InsertarRegistros/InsertarRegistros.iml" />
       <module fileurl="file://$PROJECT_DIR$/Matrices/Matrices.iml" filepath="$PROJECT_DIR$/Matrices/Matrices.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModificadoresAcceso/ModificadoresAcceso.iml" filepath="$PROJECT_DIR$/ModificadoresAcceso/ModificadoresAcceso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiplesParametros/MultiplesParametros.iml" filepath="$PROJECT_DIR$/MultiplesParametros/MultiplesParametros.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperadorTernario/OperadorTernario.iml" filepath="$PROJECT_DIR$/OperadorTernario/OperadorTernario.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperadoresRelacionales/OperadoresRelacionales.iml" filepath="$PROJECT_DIR$/OperadoresRelacionales/OperadoresRelacionales.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecorrerArreglos/RecorrerArreglos.iml" filepath="$PROJECT_DIR$/RecorrerArreglos/RecorrerArreglos.iml" />
       <module fileurl="file://$PROJECT_DIR$/RetornarValores/RetornarValores.iml" filepath="$PROJECT_DIR$/RetornarValores/RetornarValores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SobrecargaConstructores/SobrecargaConstructores.iml" filepath="$PROJECT_DIR$/SobrecargaConstructores/SobrecargaConstructores.iml" />
       <module fileurl="file://$PROJECT_DIR$/SobrecargaMetodos/SobrecargaMetodos.iml" filepath="$PROJECT_DIR$/SobrecargaMetodos/SobrecargaMetodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringComoCadena/StringComoCadena.iml" filepath="$PROJECT_DIR$/StringComoCadena/StringComoCadena.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
