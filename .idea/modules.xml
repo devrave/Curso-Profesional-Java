@@ -31,11 +31,14 @@
       <module fileurl="file://$PROJECT_DIR$/OperadoresRelacionales/OperadoresRelacionales.iml" filepath="$PROJECT_DIR$/OperadoresRelacionales/OperadoresRelacionales.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecorrerArreglos/RecorrerArreglos.iml" filepath="$PROJECT_DIR$/RecorrerArreglos/RecorrerArreglos.iml" />
       <module fileurl="file://$PROJECT_DIR$/RetornarValores/RetornarValores.iml" filepath="$PROJECT_DIR$/RetornarValores/RetornarValores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SobreEscricturaDelConstructor/SobreEscricturaDelConstructor.iml" filepath="$PROJECT_DIR$/SobreEscricturaDelConstructor/SobreEscricturaDelConstructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SobreEscrituraMetodos-Polimorfismo/SobreEscrituraMetodos-Polimorfismo.iml" filepath="$PROJECT_DIR$/SobreEscrituraMetodos-Polimorfismo/SobreEscrituraMetodos-Polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SobrecargaConstructores/SobrecargaConstructores.iml" filepath="$PROJECT_DIR$/SobrecargaConstructores/SobrecargaConstructores.iml" />
       <module fileurl="file://$PROJECT_DIR$/SobrecargaMetodos/SobrecargaMetodos.iml" filepath="$PROJECT_DIR$/SobrecargaMetodos/SobrecargaMetodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringComoCadena/StringComoCadena.iml" filepath="$PROJECT_DIR$/StringComoCadena/StringComoCadena.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Super/Super.iml" filepath="$PROJECT_DIR$/Super/Super.iml" />
       <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/While/While.iml" filepath="$PROJECT_DIR$/While/While.iml" />
