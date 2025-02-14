@@ -8,7 +8,12 @@ public class Mascota {
     public String nombre, raza;
     public int edad;
 
+    //A continuación ls sobreescritura de un constructor en la clase padre y es llamado desde la clase hija con super
+
     public Mascota(String nombre, String raza, int edad){
+        this.nombre = nombre;
+        this.raza = raza;
+        this.edad = edad;
 
     }
 

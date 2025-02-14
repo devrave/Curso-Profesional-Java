@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Break-Continue2/Break-Continue2.iml" filepath="$PROJECT_DIR$/Break-Continue2/Break-Continue2.iml" />
       <module fileurl="file://$PROJECT_DIR$/CiclosUnicaSentencia/CiclosUnicaSentencia.iml" filepath="$PROJECT_DIR$/CiclosUnicaSentencia/CiclosUnicaSentencia.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clases-objetos/Clases-objetos.iml" filepath="$PROJECT_DIR$/Clases-objetos/Clases-objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClasesAbstractas/ClasesAbstractas.iml" filepath="$PROJECT_DIR$/ClasesAbstractas/ClasesAbstractas.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClasesAnidadas/ClasesAnidadas.iml" filepath="$PROJECT_DIR$/ClasesAnidadas/ClasesAnidadas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Concatenar/Concatenar.iml" filepath="$PROJECT_DIR$/Concatenar/Concatenar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condicionales/Condicionales.iml" filepath="$PROJECT_DIR$/Condicionales/Condicionales.iml" />
@@ -24,11 +25,13 @@
       <module fileurl="file://$PROJECT_DIR$/Herencia/Herencia.iml" filepath="$PROJECT_DIR$/Herencia/Herencia.iml" />
       <module fileurl="file://$PROJECT_DIR$/HolaMundo/HolaMundo.iml" filepath="$PROJECT_DIR$/HolaMundo/HolaMundo.iml" />
       <module fileurl="file://$PROJECT_DIR$/InsertarRegistros/InsertarRegistros.iml" filepath="$PROJECT_DIR$/InsertarRegistros/InsertarRegistros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Matrices/Matrices.iml" filepath="$PROJECT_DIR$/Matrices/Matrices.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModificadoresAcceso/ModificadoresAcceso.iml" filepath="$PROJECT_DIR$/ModificadoresAcceso/ModificadoresAcceso.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiplesParametros/MultiplesParametros.iml" filepath="$PROJECT_DIR$/MultiplesParametros/MultiplesParametros.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperadorTernario/OperadorTernario.iml" filepath="$PROJECT_DIR$/OperadorTernario/OperadorTernario.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperadoresRelacionales/OperadoresRelacionales.iml" filepath="$PROJECT_DIR$/OperadoresRelacionales/OperadoresRelacionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrincipioDeSustitucion/PrincipioDeSustitucion.iml" filepath="$PROJECT_DIR$/PrincipioDeSustitucion/PrincipioDeSustitucion.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecorrerArreglos/RecorrerArreglos.iml" filepath="$PROJECT_DIR$/RecorrerArreglos/RecorrerArreglos.iml" />
       <module fileurl="file://$PROJECT_DIR$/RetornarValores/RetornarValores.iml" filepath="$PROJECT_DIR$/RetornarValores/RetornarValores.iml" />
       <module fileurl="file://$PROJECT_DIR$/SobreEscricturaDelConstructor/SobreEscricturaDelConstructor.iml" filepath="$PROJECT_DIR$/SobreEscricturaDelConstructor/SobreEscricturaDelConstructor.iml" />

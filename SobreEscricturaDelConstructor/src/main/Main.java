@@ -9,9 +9,8 @@ public class Main {
         Perro perro = new Perro("perro","raza",5);
 
 
-
-        gato.dormir();
-        perro.dormir();
+        System.out.println(gato.getNombre());
+        System.out.println(perro.getNombre());
 
     }
 }

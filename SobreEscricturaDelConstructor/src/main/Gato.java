@@ -4,9 +4,7 @@ public class Gato extends Mascota {
     // clase hija
 
     public Gato(String nombre, String raza, int edad){
-        this.nombre = nombre;
-        this.raza = raza;
-        this.edad = edad;
+        super(nombre,raza,edad); // De esta manera llamo al constructor padre
     }
 
     @Override
