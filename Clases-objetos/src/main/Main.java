@@ -14,8 +14,8 @@ public class Main {
         // Cuando llamamos a un metodo de un objeto que tiene parametros, se les debe poner los argumentos
         lassie.establecerAtributos("lassie", "Collie",4);
 
-        System.out.println("El nombre es: " + lassie.nombre);
-        System.out.println("La raza es : " + lassie.raza);
+        hola.out.println("El nombre es: " + lassie.nombre);
+        hola.out.println("La raza es : " + lassie.raza);
         System.out.println("La edad es : " + lassie.edad);
 
         lassie.comer();
